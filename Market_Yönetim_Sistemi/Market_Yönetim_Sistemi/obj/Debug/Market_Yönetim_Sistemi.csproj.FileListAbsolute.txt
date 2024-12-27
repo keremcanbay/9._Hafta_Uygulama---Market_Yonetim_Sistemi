@@ -1,0 +1,7 @@
+C:\Users\yigit\source\repos\Market_Yönetim_Sistemi\Market_Yönetim_Sistemi\bin\Debug\Market_Yönetim_Sistemi.exe.config
+C:\Users\yigit\source\repos\Market_Yönetim_Sistemi\Market_Yönetim_Sistemi\bin\Debug\Market_Yönetim_Sistemi.exe
+C:\Users\yigit\source\repos\Market_Yönetim_Sistemi\Market_Yönetim_Sistemi\bin\Debug\Market_Yönetim_Sistemi.pdb
+C:\Users\yigit\source\repos\Market_Yönetim_Sistemi\Market_Yönetim_Sistemi\obj\Debug\Market_Yönetim_Sistemi.csprojAssemblyReference.cache
+C:\Users\yigit\source\repos\Market_Yönetim_Sistemi\Market_Yönetim_Sistemi\obj\Debug\Market_Yönetim_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\yigit\source\repos\Market_Yönetim_Sistemi\Market_Yönetim_Sistemi\obj\Debug\Market_Yönetim_Sistemi.exe
+C:\Users\yigit\source\repos\Market_Yönetim_Sistemi\Market_Yönetim_Sistemi\obj\Debug\Market_Yönetim_Sistemi.pdb
